@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 ssh add by wanyi
-=======
 2nd by jie
->>>>>>> 9f534a18cd92831579e090e06a50f1679ce697a2
 add by wanyi
 adf
 adsf
